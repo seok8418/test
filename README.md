@@ -238,17 +238,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 <br>
 <br>
-<br>
 
 ***
 
 ***
 
 <br>
-<br>
-<br>
-
-
 
 # <img src="https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/pet_Image.jpg?raw=true" width="64">Pet House System
 [![License: GPL v3](https://img.shields.io/badge/licence-GPL%20v3-yellow.svg)](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/LICENSE)
