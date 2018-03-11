@@ -242,28 +242,31 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <img src="https://img.shields.io/badge/release-v1.0.2-blue.svg">
 ### PetHouseSystem은 Messenger를 통해 애완동물을 관리할 수 있게 해 주는 도구입니다.
 
-
+<br>
+<br>
+<br>
+***
 
 ## Index
-* [Introduction](#introduction)
-* [Features](#features)
-* [Requirement](#requirement)
-* [Settings & Installation](#settings--installation)
-  * [Settings](#settings)
-  * [Installation](#installation)
-* [Pet House Structure](#pet-house-structure)
-* [Motor operation structure](#motor-operation-structure)
-* [Client & Server Structure](#client--server-structure)
-  * [Full server structure](#full-server-structure)
-  * [Client & Main server structure](#client--main-server-structure)
-  * [Main server & Pi-server structure](#main-server--pi-server-structure)
-* [How to use](#how-to-use)
-* [How to connect motor wires](#how-to-connect-motor-wires)
-  * [Food Motor](#food-motor)
-  * [Water Motor](#water-motor)
-  * [Door Motor](#door-motor)
-* [Notes](#notes)
-* [LICENSE](#license)
+* [Introduction](#introduction-1)
+* [Features](#features-1)
+* [Requirement](#requirement-1)
+* [Settings & Installation](#settings--installation-1)
+  * [Settings](#settings-1)
+  * [Installation](#installation-1)
+* [Pet House Structure](#pet-house-structure-1)
+* [Motor operation structure](#motor-operation-structure-1)
+* [Client & Server Structure](#client--server-structure-1)
+  * [Full server structure](#full-server-structure-1)
+  * [Client & Main server structure](#client--main-server-structure-1)
+  * [Main server & Pi-server structure](#main-server--pi-server-structure-1)
+* [How to use](#how-to-use-1)
+* [How to connect motor wires](#how-to-connect-motor-wires-1)
+  * [Food Motor](#food-motor-1)
+  * [Water Motor](#water-motor-1)
+  * [Door Motor](#door-motor-1)
+* [Notes](#notes-1)
+* [LICENSE](#license-1)
 
 ## Introduction
 
