@@ -348,8 +348,7 @@ Pet House System은 긴 여행을 갔을 때나 갑작스러운 약속이 생겼
 | :----: | :----: |
 | ![](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/motor_food.png?raw=true) <br> 모터를 짧은 시간동안 돌리고 복구합니다. 입구가 열리고 닫히면서 먹이를 줍니다.  | ![](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/motor_water.png?raw=true) <br> 튜브가 모터에 의해 접히고 펼쳐지면서 물을 공급합니다. |
 **문(열기)** | **문(닫기)**
-|![](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/motor_open.png?raw=true) <br> 모터의 회전이 실을 잡아당기면서 문이 열립니다. |
-![](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/motor_close.png?raw=true) <br> 모터가 정지되면 모게추의 복원력에 의해 문이 닫힙니다. |
+|![](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/motor_open.png?raw=true) <br> 모터의 회전이 실을 잡아당기면서 문이 열립니다. | ![](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/motor_close.png?raw=true) <br> 모터가 정지되면 모게추의 복원력에 의해 문이 닫힙니다. |
 
 
 
