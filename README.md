@@ -236,16 +236,26 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
+<br>
+<br>
+<br>
+
+***
+
+***
+
+<br>
+<br>
+<br>
+
+
+
 # <img src="https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/.README/pet_Image.jpg?raw=true" width="64">Pet House System
 [![License: GPL v3](https://img.shields.io/badge/licence-GPL%20v3-yellow.svg)](https://github.com/kuj0210/IoT-Pet-Home-System/blob/master/LICENSE)
 <img src="https://img.shields.io/badge/python-%3E%3D3-brightgreen.svg">
 <img src="https://img.shields.io/badge/release-v1.0.2-blue.svg">
 ### PetHouseSystem은 Messenger를 통해 애완동물을 관리할 수 있게 해 주는 도구입니다.
 
-<br>
-<br>
-<br>
-***
 
 ## Index
 * [Introduction](#introduction-1)
